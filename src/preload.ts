@@ -1,4 +1,3 @@
-// src/preload.ts
 import { contextBridge, ipcRenderer } from 'electron';
 
 export type BlockResult = {
